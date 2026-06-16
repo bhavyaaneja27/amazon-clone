@@ -1,2 +1,20 @@
-# amazon-clone
-A responsive Amazon homepage clone built using HTML and CSS. This project recreates the layout, navigation bar, hero section, product cards, and footer of Amazon's website while practicing modern web design techniques, Flexbox, CSS styling, and responsive layouts.
+# Amazon Clone
+
+A responsive Amazon homepage clone built using HTML and CSS.
+
+## Features
+- Responsive Navigation Bar
+- Hero Section
+- Product Categories Grid
+- Footer Section
+- Flexbox Layout
+- Clean and Modern UI
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Purpose
+This project was created to practice frontend web development skills, including HTML structure, CSS styling, Flexbox, and responsive design.
+## Author
+Bhavya Anejas.
