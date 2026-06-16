@@ -2,6 +2,10 @@
 
 A responsive Amazon homepage clone built using HTML and CSS.
 
+Live Demo
+
+🔗 https://bhavyaaneja27.github.io/amazon-clone/
+
 ## Features
 - Responsive Navigation Bar
 - Hero Section
