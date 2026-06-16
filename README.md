@@ -17,4 +17,4 @@ A responsive Amazon homepage clone built using HTML and CSS.
 ## Purpose
 This project was created to practice frontend web development skills, including HTML structure, CSS styling, Flexbox, and responsive design.
 ## Author
-Bhavya Anejas.
+Bhavya Aneja
